@@ -1,0 +1,23 @@
+{
+  "name": "crispy-enigma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@rithiksarab"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rithiksarab/crispy-enigma.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rithiksarab/crispy-enigma/issues"
+  },
+  "homepage": "https://github.com/rithiksarab/crispy-enigma#readme"
+}
