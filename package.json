@@ -1,10 +1,10 @@
 {
-  "name": "crispy-enigma",
+  "name": "@rithiksarab/crispy-enigma",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "publishConfig": {
-    "@rithiksarab:registry": "https://npm.pkg.github.com/@rithiksarab"
+    "registry": "https://npm.pkg.github.com/@rithiksarab"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
